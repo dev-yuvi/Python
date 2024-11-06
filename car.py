@@ -19,7 +19,7 @@ start -> to start the car
 stop -> to stop the car
 quite -> to quite the game
 """)
-    elif commend =="quite":
+    elif commend =="quit":
         break
     else:
         print("I don't understand !!!")
